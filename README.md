@@ -2,9 +2,6 @@
 
 [![Latest Release](https://img.shields.io/github/v/tag/kalisio/vuepress-plugin-panolens?sort=semver&label=latest)](https://github.com/kalisio/vuepress-plugin-panolens/releases)
 
-
-## Overview
-
 This is a simple [VuePress](https://vuepress.vuejs.org/) plugin that provides a global component wrapping [Panolens](https://pchen66.github.io/Panolens/), _a Javascript Panorama Viewer_.
 
 ## Installation
